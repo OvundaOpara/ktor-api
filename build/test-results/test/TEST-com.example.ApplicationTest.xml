@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.ApplicationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-10-31T22:25:21" hostname="OVUNDA-PC" time="1.189">
+  <properties/>
+  <testcase name="testRoot" classname="com.example.ApplicationTest" time="1.177"/>
+  <testcase name="testHealth" classname="com.example.ApplicationTest" time="0.012"/>
+  <system-out><![CDATA[23:25:22.455 [DefaultDispatcher-worker-1 @call-context#2] INFO ktor.test -- No ktor.deployment.watch patterns specified, automatic reload is not active.
+23:25:22.548 [DefaultDispatcher-worker-1 @call-context#2] INFO ktor.test -- Application started in 0.115 seconds.
+23:25:22.552 [DefaultDispatcher-worker-3 @coroutine#4] INFO ktor.test -- Responding at http://localhost:80
+23:25:22.552 [DefaultDispatcher-worker-3 @coroutine#4] INFO ktor.test -- Responding at https://localhost:443
+23:25:23.149 [DefaultDispatcher-worker-1 @call-context#10] INFO ktor.test -- No ktor.deployment.watch patterns specified, automatic reload is not active.
+23:25:23.150 [DefaultDispatcher-worker-1 @call-context#10] INFO ktor.test -- Application started in 0.001 seconds.
+23:25:23.151 [DefaultDispatcher-worker-2 @coroutine#12] INFO ktor.test -- Responding at http://localhost:80
+23:25:23.151 [DefaultDispatcher-worker-2 @coroutine#12] INFO ktor.test -- Responding at https://localhost:443
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
